@@ -1,0 +1,38 @@
+
+div p{
+	color: purple;
+	font-weight: bold;
+}
+
+ span p{
+	font-weight: bold;
+}
+
+
+
+
+
+.red{color:red;}
+
+
+
+
+
+body{background-color:silver;}
+
+
+a{text-decoration: none;
+border: 1px solid gray;
+border-radius: 50px;
+background-color: black;
+color: black;
+transition: all 2s;
+}
+
+a:hover{background-color: silver;
+font-size: 20px;}
+
+.top{text-decoration: none;
+border: 1px solid gray;
+background-color:green;}
+
